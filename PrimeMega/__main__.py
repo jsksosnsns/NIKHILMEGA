@@ -84,7 +84,7 @@ PM_START_TEXT = """
  ───「[DEXDECRYPT](https://t.me/DEXDECRYPT)」───
 *Hello {} !*
 ────────────────────────
-PrimeMega a powerful group management bot built to help you manage your group!
+Dexdecrypt a powerful group management bot built to help you manage your group!
 ────────────────────
 Hit the /help or tap on button to se available command on me.
 """
