@@ -6,7 +6,7 @@ from PrimeMega.modules.disable import DisableAbleCommandHandler
 from telegram import Update
 from telegram.ext import CallbackContext
 
-# Wallpapers module by @TheRealPhoenix using wall.alphacoders.com
+# Wallpapers module by @NIKHILOWNER using wall.alphacoders.com
 
 
 def wall(update: Update, context: CallbackContext):
