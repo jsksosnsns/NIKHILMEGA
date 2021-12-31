@@ -102,10 +102,6 @@ buttons = [
             text="TryInline", switch_inline_query_current_chat=""
         ),
     ],
-    [
-        InlineKeyboardButton(text="Help & Commands❔", callback_data="help_back"
-        ),
-    ],
 ]
 
 
